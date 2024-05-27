@@ -1,4 +1,4 @@
-Google Classroom Clone Database Project
+#Google Classroom Clone Database Project
 Overview
 The Google Classroom Clone Database Project is a web-based application designed to replicate the core functionalities of Google Classroom. This project demonstrates the integration of a robust database system with a dynamic user interface, providing a platform for managing courses, assignments, and user interactions. It is built using .NET 6.0 and is suitable for educational purposes, showcasing the practical implementation of database management and application development.
 
