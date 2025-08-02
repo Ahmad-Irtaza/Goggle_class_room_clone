@@ -13,4 +13,3 @@ The Google Classroom Clone Database Project is a web-based application designed 
 - **Grading System**: Teachers can grade assignments and provide feedback.
 - **Database Integration**: Efficient data storage and retrieval using a SQL-based database.
 
-hsjahah
